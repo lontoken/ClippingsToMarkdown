@@ -9,3 +9,6 @@
 ##名字由来
 在作者的第一个Kindle(Kindle Paperwhite)中，标注都记录在 Documents/My Clippings.txt 文件中，由些得来Clippings。  
 Markdown即表示Markdown格式。
+
+##支持系统
+因作者本人所用系统为Windows7，暂时只考虑支持Windows系统。
